@@ -1,0 +1,15 @@
+<!-- Ginga template -->
+
+{% extends "layout.html" %}
+
+{% block body %}
+
+<ul>
+    {% for student in students %}
+    <li>{{ student }}</li>
+    {% endfor %}
+</ul>
+
+{% endvlock %}
+
+<!-- Thanks for looking -->
