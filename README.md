@@ -1,6 +1,8 @@
 # HTML
-HTML code
+various HTML projects
 
+
+# Special thanks to
 Course: CS50
 
 Department: Computer Science
